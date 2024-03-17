@@ -1,5 +1,6 @@
 # Image-Dispay-and-Processing-with-Qt-Widgets-and-OpenCV
-Objectives:     
+Objectives:-       
+Develop a Python application that:
 1. Opens a video stream from either a webcam or a specified video file
 2. Displays each video frame in a designated area within the Qt window
 3. Implements a basic image processing operation on each frame(greyscale conversion, edge detection)
